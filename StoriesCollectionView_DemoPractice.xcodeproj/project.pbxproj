@@ -13,6 +13,7 @@
 		0E7AC78528FEEF6F00A05715 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E7AC78328FEEF6F00A05715 /* Main.storyboard */; };
 		0E7AC78728FEEF9500A05715 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E7AC78628FEEF9500A05715 /* Assets.xcassets */; };
 		0E7AC78A28FEEF9500A05715 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E7AC78828FEEF9500A05715 /* LaunchScreen.storyboard */; };
+		0EAD630328FFBAC70036DC19 /* CircleCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EAD630228FFBAC70036DC19 /* CircleCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0E7AC78628FEEF9500A05715 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0E7AC78928FEEF9500A05715 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0E7AC78B28FEEF9500A05715 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0EAD630228FFBAC70036DC19 /* CircleCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				0E7AC77D28FEEF6F00A05715 /* AppDelegate.swift */,
 				0E7AC77F28FEEF6F00A05715 /* SceneDelegate.swift */,
+				0EAD630228FFBAC70036DC19 /* CircleCollectionViewCell.swift */,
 				0E7AC78128FEEF6F00A05715 /* ViewController.swift */,
 				0E7AC78328FEEF6F00A05715 /* Main.storyboard */,
 				0E7AC78628FEEF9500A05715 /* Assets.xcassets */,
@@ -139,6 +142,7 @@
 			files = (
 				0E7AC78228FEEF6F00A05715 /* ViewController.swift in Sources */,
 				0E7AC77E28FEEF6F00A05715 /* AppDelegate.swift in Sources */,
+				0EAD630328FFBAC70036DC19 /* CircleCollectionViewCell.swift in Sources */,
 				0E7AC78028FEEF6F00A05715 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
